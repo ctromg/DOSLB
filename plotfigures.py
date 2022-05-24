@@ -18,7 +18,7 @@ R = 0.1
 L = 4
 Lambda = 1
 delta = 0.01
-Xi = 0.28
+Xi = 0.14 # adjust Xi according to alpha_safety
 
 # plot the 2 figures of LTS vs DOSLB
 plt.rcParams['font.size'] = 14
